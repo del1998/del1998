@@ -16,10 +16,10 @@ CI/CD:
 <img src="https://img.shields.io/badge/githubactions-green?logo=githubactions" />
 
 Monitoring & Logging:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" />
+<img src="https://img.shields.io/badge/prometheus-orange?logo=prometheus" />
+<img src="https://img.shields.io/badge/grafana-blue?logo=grafana" />
+<img src="https://img.shields.io/badge/ELK-yellow?logo=elasticsearch" />
 
 Languages & Scripting:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+<img src="https://img.shields.io/badge/python-green?logo=python" />
+<img src="https://img.shields.io/badge/bash-red?logo=bash" />
